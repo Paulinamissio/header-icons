@@ -1,0 +1,28 @@
+html {
+  background-color: white;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: #d05c2e;
+  padding: .5em 0 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+
+}
+
+a {
+  font-family: 'Merriweather', serif;
+  list-style-type: square;
+  display: inline-block;
+  color: white;
+}
